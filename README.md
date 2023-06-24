@@ -10,8 +10,8 @@ The present is an infinitely thin span of time bordered by endless past and futu
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic
-Original fic: https://www.fimfiction.net/story/537784/asynchronous
-
+https://www.fimfiction.net/story/537784/asynchronous
+ 
 # Original cover
 https://посилання_на_фанфік
 
