@@ -1,4 +1,4 @@
-# /Назва Фанфіка/ - Українською
+# Asynchronous - Українською
 ![обкладинка](https://github.com/Vovkiv/Asynchronous-ukr/blob/main/src/cover-ukr.png?raw=true)
 
 A short existential horror. Apple Bloom accidentally time travels a fraction of a second into the past, and realises she's the only one there. The world continues on around her, yet she's not in it.
