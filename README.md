@@ -13,7 +13,7 @@ The present is an infinitely thin span of time bordered by endless past and futu
 https://www.fimfiction.net/story/537784/asynchronous
  
 # Original cover
-https://посилання_на_фанфік
+https://cdn-img.fimfiction.net/story/zcx0-1687263841-537784-full
 
 # Слідкувати за процесом перекладу можна тут
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
